@@ -28,7 +28,7 @@
           (and, proud java object notation wrangler~)
         <li><a>⌨️ python 3 plugin development for Cinema 4D (c4dpy) for 3 years<a></li>
         <li><a>🪟 powershell script + git development for 2 years<a></li>
-        <li><a>🛜 html website front & backend development<a></li>
+        <li><a>🛜 fullstack in html/css/js pipeline web development<a></li>
       </p>
       <a href="https://github.com/elimango/github-readme-stats">
 <img height=245 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=elimango&show_icons=true&theme=dracula&hide_title=true&card_width=3200"/>
