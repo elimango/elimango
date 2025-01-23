@@ -1,5 +1,3 @@
-### 
-
 <html>
   <head>
     <div>
@@ -11,6 +9,9 @@
       <p>
       Greetings! you can call me elimango, or eli. I'm an animation and lookdev artist, director, producer, and technical director- developing <a href="https://github.com/elimango/cinamango">cinamango</a> and <a href="https://github.com/elimango/sere">sere</a> for animation pipelines. ^v'
       </p>
+      <a href="https://github.com/elimango/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elimango&show_icons=true&theme=dracula"/>
+      </a>
     </div>
     <div>
       <h1>
@@ -29,6 +30,9 @@
         <li><a>🪟 powershell script + git development for 2 years<a></li>
         <li><a>🛜 html website front & backend development<a></li>
       </p>
+      <a href="https://github.com/elimango/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=elimango&show_icons=true&theme=dracula"/>
+      </a> 
       <h1>
         where i'm active
       </h1>
@@ -49,6 +53,3 @@
     <div>
   </body>
 </html>
-<!--
-
--->
