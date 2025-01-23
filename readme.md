@@ -5,7 +5,7 @@
     <div>
       <img src="/header4x.png">
     </div>
-    [![elimango/.git; enjoy your stay](https://github-readme-stats.vercel.app/api?username=elimango)](https://github.com/elimango/github-readme-stats)
+    [![elimango/.git; enjoy your stay](https://github-readme-stats.vercel.app/api?username=elimango)](https://github.com/anuraghazra/github-readme-stats)
   </head>
   <body>
     <div>
