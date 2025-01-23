@@ -15,7 +15,7 @@
 <img height=160 src="https://github-readme-stats.vercel.app/api?username=elimango&card_width=768&theme=dracula&hide=prs,issues,contribs&hide_title=true&include_all_commits=true"/>
       </a>
       <h1>
-        i've worked actively in...
+        working stack
       </h1>
       <p>
         <h3>art/creative</h3>
