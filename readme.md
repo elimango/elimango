@@ -7,7 +7,7 @@
   <body>
     <div>
       <p>
-      Greetings! you can call me elimango; eiimango or eli. I'm an animation and lookdev artist, director, producer, and (technical) director— developing <a href="https://github.com/elimango/cinamango">cinamango</a> and <a href="https://github.com/elimango/sere">sere</a> for animation pipelines. ^v'
+      Greetings! you can call me elimango; eiimango or eli. I'm an animation and lookdev artist, director, producer, and (technical) director— developing <a href="https://github.com/elimango/cinamango">Cinamango</a>; for Cinema 4D and <a href="https://github.com/elimango/sere">Sere</a> for full git animation pipelines. ^v'
       </p>
     </div>
     <div>
