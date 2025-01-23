@@ -3,7 +3,7 @@
 <html>
   <head>
     <div>
-      <img src="/uheader5x.png">
+      <img src="/uheader4x.png">
     </div>
   </head>
   <body>
