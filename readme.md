@@ -25,7 +25,7 @@
         <h3>technical</h3>
         <li><a>📦 project management front & backend<a></li> 
         <li><a>💻 early -> intermediate java video game development for 3 years<a></li>
-          (and, proud java object notation wrangler!)
+          (and proud java object notation wrangler)
         <li><a>⌨️ python 3 plugin development for Cinema 4D (c4dpy) for 3 years<a></li>
         <li><a>🪟 powershell script + git development for 2 years<a></li>
         <li><a>🛜 fullstack in html/css/js pipeline web development<a></li>
