@@ -31,7 +31,7 @@
         <li><a>🛜 fullstack in html/css/js pipeline web development<a></li>
       </p>
       <a href="https://github.com/elimango/github-readme-stats">
-<img height=245 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=elimango&show_icons=true&theme=dracula&hide_title=true&card_width=3200"/>
+<img height=512 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=elimango&show_icons=true&theme=dracula&hide_title=true&card_width=3200"/>
       </a> 
       <h1>
         where i'm active
