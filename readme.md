@@ -27,7 +27,7 @@
         <li><a>💻 early -> intermediate java video game development for 3 years<a></li>
           (and proud java object notation wrangler)
         <li><a>⌨️ python 3 plugin development for Cinema 4D (c4dpy) for 3 years<a></li>
-        <li><a>🪟 powershell script + git development for 2 years<a></li>
+        <li><a>🪟 shell, powershell, and python script + git development for 2 years<a></li>
         <li><a>🛜 fullstack in html/css/js pipeline web development<a></li>
       </p>
       <a href="https://github.com/elimango/github-readme-stats">
