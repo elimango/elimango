@@ -7,7 +7,7 @@
   <body>
     <div>
       <p>
-      (elimango; eiimango, eli.) I'm an animation and lookdev artist, director, producer, and (technical) director— developing Cinema 4D pipeline plugins, <a href="https://github.com/elimango/cinamango">Cinamango</a>, and, <a href="https://github.com/elimango/sere">Sere</a> for full git animation pipelines. ^v'
+      (elimango; eiimango, eli.) I'm an animation and lookdev artist, director, producer, and (technical) director— developing Cinema 4D pipeline plugins, <a href="https://github.com/elimango/mango4d">mango4d</a>, and, <a href="https://github.com/elimango/sere">Sere</a> for full git animation pipelines. ^v'
       </p>
     </div>
     <div>
