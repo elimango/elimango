@@ -31,7 +31,7 @@
       </h3>
         <li><a href="https://elimango.works" data-page="contact">elimango.works (portfolio)</a></li>
         <hr></hr>
-        <li><a href="https://www.youtube.com/@elimango">elimango @ youTtube</a></li>
+        <li><a href="https://www.youtube.com/@elimango">elimango @ youtube</a></li>
         <li><a href="https://www.x.com/eiimango">eiimango @ x, (formerly twitter)</a></li>
         <li><a href="https://www.instagram.com/eiimango">eiimango @ instagram</a></li>
       </p>
