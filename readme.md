@@ -13,13 +13,13 @@
     <div>
       <p>
         <h3>
-          in need of the following?
+          affiliated projects;
         </h3>
         <li><a>project management & pipeline fullstack dev, (proud) java-object-notation wrangler @ <a href="https://github.com/elimango/sere">elimango/sere</a> <a></li>
         <li><a>python 3 plugin development in c4dpy for 3 years @<a> <a href="https://github.com/elimango/py">elimango/py</a></li>
       </p>
       <h3>          
-        lets work!
+          lets work!
       </h3>
       <p>
         <a href="mailto:ehacontact@pm.me">ehacontact@pm.me
