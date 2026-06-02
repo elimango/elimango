@@ -7,7 +7,7 @@
   <body>
     <div>
       <p>
-      (elimango; eiimango, eli.) animation and lookdev artist; project (technical) director developing pipeline solutions for full git animation pipelines.
+      (elimango; eiimango, eli.) animation and lookdev artist; project & technical director developing solutions for full git animation pipelines.
       </p>
     </div>
     <div>
@@ -16,7 +16,7 @@
           affiliated projects;
         </h3>
         <li><a>project management & pipeline fullstack dev, (proud) java-object-notation wrangler @ <a href="https://github.com/elimango/sere">elimango/sere</a> <a></li>
-        <li><a>python 3 plugin development in c4dpy for 3 years @<a> <a href="https://github.com/elimango/py">elimango/py</a></li>
+        <li><a>python 3 plugin development in c4dpy for 3 years @<a> <a href="https://github.com/elimango/python">elimango/python</a></li>
       </p>
       <h3>          
           lets work!
