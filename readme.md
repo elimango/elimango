@@ -15,7 +15,7 @@
         <h3>
           affiliated projects;
         </h3>
-        <li><a>project management & pipeline fullstack dev, (proud) java-object-notation wrangler @ <a href="https://github.com/elimango/sere">elimango/sere</a> <a></li>
+        <li><a>project management & pipeline fullstack dev, proud java-object-notation wrangler @ <a href="https://github.com/elimango/sere">elimango/sere</a> <a></li>
         <li><a>python 3 plugin development in c4dpy for 3 years @<a> <a href="https://github.com/elimango/python">elimango/python</a></li>
       </p>
       <h3>          
