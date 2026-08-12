@@ -1,7 +1,7 @@
 <html>
   <head>
     <div>
-      <img src="/header4x.png">
+      <img src="/profile-decoration-dark.png">
     </div>
   </head>
   <body>
